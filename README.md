@@ -1,7 +1,7 @@
 ### hello :D
 
-🧺 currently learning: how to use GitHub
+🧺 · currently learning: how to use GitHub
 
-🕰 interested in learning: how the world works
+🕰 · interested in learning: how the world works
 
-🧸 hobbies: reading, writing, listening to music
+🧸 · hobbies: reading, writing, listening to music
